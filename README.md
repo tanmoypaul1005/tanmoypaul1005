@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoypaul1005&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoypaul1005" /> </p>
 
-- 🌱 I’m currently learning **React, Redux , Redux-tollkit Nodejs ,Expressjs , mongodb, mongoose , Flutter**
+- 🌱 I’m currently learning **React , Redux , Redux-tollkit , Nodejs , Expressjs , mongodb , mongoose , Flutter .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
