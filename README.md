@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmoy paul Full stack Web Developer</h1>
-- 🔭 I’m currently working on [Gifty🎁](https://www.non-logi.com/)
+
 
 - 🌱 I’m currently learning **React , Next js , Redux , Redux-tollkit , RTK Query , zustand , Nodejs , Expressjs , Passport js , mongodb , mongoose , Flutter , php , MySQL , Firebase .**
 
-- 👯 I’m looking to collaborate on [Limadi](https://demo.limadi.dk)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
