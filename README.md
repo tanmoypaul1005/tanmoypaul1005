@@ -69,6 +69,31 @@ Passionate about building scalable web applications — from pixel-perfect UIs t
 
 ---
 
+## 🏗️ Featured Projects
+
+### 🛒 [ZOYEQ](https://zoyeq.com/) — AI-Powered eCommerce Platform
+> Scale your eCommerce business with intelligent automation
+
+- 🤖 AI-powered one-stop eCommerce management platform
+- 🏪 Multi-vendor support with no-code store setup
+- 📊 Data-driven tools to optimize operations & boost sales
+- 🔗 App store integrations & live demo available
+- 🛠️ **Stack:** Next.js · Node.js · MongoDB · REST API · Firebase
+
+[![Live](https://img.shields.io/badge/🌐_Live-zoyeq.com-2ea043?style=flat-square)](https://zoyeq.com/)
+
+---
+
+### 🛍️ [Metro Mart](https://www.metromartonline.com/) — Online Shopping Platform (Bangladesh)
+> Trusted online shopping destination in Bangladesh
+
+- 🧺 Full-featured e-commerce store with product listings & categories
+- 📦 Built for the Bangladesh market with local brand integrations
+- ⚡ Fast, responsive UI with Next.js
+- 🛠️ **Stack:** Next.js · Node.js · PostgreSQL · REST API
+
+[![Live](https://img.shields.io/badge/🌐_Live-metromartonline.com-0077b5?style=flat-square)](https://www.metromartonline.com/)
+
 ## 📊 GitHub Stats
 
 <div align="center">
