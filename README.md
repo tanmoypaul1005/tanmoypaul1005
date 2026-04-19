@@ -15,11 +15,17 @@ Passionate about building scalable web applications — from pixel-perfect UIs t
 
 ## 🚀 About Me
 
-- 🔭 Currently building projects with **React**, **Next.js** & **Node.js**
-- 🌱 Actively learning **RTK Query**, **Zustand**, **Flutter**, and **GraphQL**
+- 🔭 Currently building full stack apps with **React**, **Next.js** & **NestJS**
+- 💻 Comfortable across the entire stack — UI, API, Database & Deployment
+- 🗄️ Working with both SQL (**PostgreSQL**, **MySQL**) and NoSQL (**MongoDB**) databases
+- ⚙️ Building RESTful APIs and exploring **GraphQL** for flexible data fetching
+- 🔐 Implementing authentication with **JWT**, **Passport.js** & **OAuth**
+- 📦 Managing complex state with **Redux Toolkit**, **RTK Query** & **Zustand**
+- 🧪 Writing tests with **Jest**, **Cypress** & **React Testing Library**
+- 🚀 Deploying apps on **Vercel**, **Heroku** & **Firebase**
+- 🌱 Currently exploring **Docker**, **microservices architecture** & **system design**
 - 💼 Open to **full-time roles** and **freelance projects**
 - 📍 Based in **Bangladesh**
-
 ---
 
 ## 🛠️ Tech Stack
