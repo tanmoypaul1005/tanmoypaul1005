@@ -5,9 +5,10 @@
 
 Passionate about building scalable web applications — from pixel-perfect UIs to robust REST APIs.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-2ea043?style=for-the-badge)](https://tanmoy-paul.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanmoy-paul-911633214)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877f2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100085293574300)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tanmoy--paul.vercel.app-2ea043?style=for-the-badge)](https://tanmoy-paul.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanmoy--paul-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanmoy-paul-911633214)
+[![Facebook](https://img.shields.io/badge/Facebook-Tanmoy_Paul-1877f2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100085293574300)
+[![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
